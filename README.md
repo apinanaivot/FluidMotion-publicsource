@@ -17,7 +17,7 @@ xmake
 The DLL is written under `build/`. Copy it with `dist/SKSE/Plugins/*` into `Data/SKSE/Plugins`.
 
 ## Motion matching
-The code includes an optional motion matching mode for the player (`bMotionMatch` in the INI). It needs a
+The motion matching code needs a
 `FluidMotion_mm.bin` database built from the LaFAN1 motion capture dataset (Ubisoft), which is licensed
 CC BY-NC-ND 4.0. Because of that licence the database and the tool that builds it are not part of this repository,
 and the mode is off by default. Without the file the plugin skips it and everything else works as normal.

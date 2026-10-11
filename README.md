@@ -1,5 +1,7 @@
 # Fluid Motion: Pathfinding Overhaul
 
+Download the built mod from Nexus Mods: https://www.nexusmods.com/skyrimspecialedition/mods/194680?tab=description
+
 SKSE plugin for smoother NPC and creature movement in Skyrim Special Edition (version 0.1.1).
 
 ## Requirements

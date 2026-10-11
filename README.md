@@ -11,7 +11,7 @@ SKSE plugin for smoother NPC and creature movement in Skyrim Special Edition (ve
 - Visual Studio 2022 (Desktop development with C++), xmake 3.x
 
 ```
-git clone --recursive <this repo>
+git clone --recursive https://github.com/apinanaivot/FluidMotion-publicsource.git
 xmake f -p windows -m releasedbg
 xmake
 ```

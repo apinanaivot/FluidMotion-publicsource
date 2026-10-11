@@ -1,0 +1,5 @@
+build/
+.xmake/
+vsxmake*/
+*.user
+dist/SKSE/Plugins/FluidMotion_mm.bin
